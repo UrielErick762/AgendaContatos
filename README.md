@@ -1,6 +1,7 @@
 # 📇 Agenda de Contatos
 
-Projeto em desenvolvimento de um sistema para gerenciamento hospitalar, criado para treinar conceitos de **back-end** e **banco de dados** A proposta inicial é permitir o cadastro de pacientes, com funcionalidades básicas de **CRUD (criar, visualizar, editar e remover registros)**, utilizando banco de dados para persistência das informações.
+Projeto em desenvolvimento de um sistema para gerenciamento hospitalar, criado para treinar conceitos de **back-end** e **banco de dados**.
+A proposta inicial é permitir o cadastro de pacientes, com funcionalidades básicas de **CRUD (criar, visualizar, editar e remover registros)**, utilizando banco de dados para persistência das informações.
 
 > **Tecnologias que pretendemos usar:**
 > - Linguagem: Java 
